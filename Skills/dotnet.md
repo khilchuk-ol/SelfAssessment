@@ -1,92 +1,128 @@
-## .NET C# and backend
+## .NET
 
-- Language Fundamentals
-  - Strong and Weak Sides of C# 🎓 known
-  - Asynchronous Programming with async/await 🖐️ used
-  - Memory Management in .NET (Garbage Collection) 🎓 known
-  - .NET Standard and .NET Core
-  - .NET Framework vs .NET Core vs .NET 5+ 🎓 known
-  - I/O-bound, CPU-bound, and Memory-bound tasks in C# 👂 heard
+- Core Concepts and Internals
+  - Strengths and weaknesses of .NET 🎓 known
+  - Stateful and stateless services 🎓 known
+  - Asynchronous and synchronous programming 🎓 known
+  - Task-based asynchronous pattern 🎓 known
+  - Garbage collection in .NET 🔬 researched
+  - .NET runtime versions and support 🎓 known
+  - I/O-bound, CPU-bound tasks 🎓 known
+  - Real-time applications with SignalR
 - Modularity and Dependencies
-  - NuGet Package Manager 🖐️ used
-  - Dependency Injection in ASP.NET Core 🖐️ used
-  - Modular Architecture in C# 🎓 known
-  - SOLID Principles in C# 🖐️ used
-  - Entity Framework Core (ORM) 🖐️ used
-  - Aspect-Oriented Programming (AOP) in C#
-- Environment
-  - Command Line Arguments in C# 👂 heard
+  - .NET assemblies 🎓 known
+  - NuGet package management 🖐️ used
+  - Dependency management in .NET 🖐️ used
+  - Dependency Injection in .NET 🖐️ used
+  - Inversion of Control (IoC) 🖐️ used
+  - IoC containers in .NET 🖐️ used
+  - Middleware and pipeline configuration 🖐️ used
+  - Modular applications 👂 heard
+- Environment and Tools
+  - Command line interface (CLI) tools 🎓 known
   - .NET CLI 🎓 known
-  - Application Configuration in .NET 🎓 known
-  - .NET Core vs .NET Framework 🎓 known
-- Internal API
-  - ASP.NET Core Middleware 🖐️ used
-  - ASP.NET Core Routing 🖐️ used
-  - ASP.NET Core Filters 🖐️ used
-  - Web API and RESTful Services 🖐️ used
-  - ASP.NET Core Background Tasks 🖐️ used
-  - Working with JSON in C# 🖐️ used
-  - ASP.NET Core Dependency Injection 🖐️ used
-  - Unit Testing in C# 🖐️ used
-  - Logging in .NET Core 🖐️ used
-- Application Structure and Architecture
-  - ASP.NET Core Project Structure 🖐️ used
-  - Separation of Concerns in C# 🖐️ used
-  - Inversion of Control in .NET 🖐️ used
-  - Microservices Architecture in .NET 🖐️ used
-  - Domain-Driven Design (DDD) in C# 👂 heard
-  - Event-Driven Architecture in .NET 🖐️ used
-  - Clean Architecture in .NET 🖐️ used
-- Network
-  - HTTP and HTTPS in .NET 🖐️ used
-  - TCP and UDP Communication in C# 🖐️ used
-  - SignalR for Real-time Communication
-  - gRPC in .NET 🎓 known
-  - Middleware in ASP.NET Core 🖐️ used
-  - Security (XSS, CSRF) in .NET 🖐️ used
-  - Load Balancing in .NET
-  - DoS and DDoS Mitigation in .NET
-  - DNS Resolution in .NET
-- Techniques and Tools
-  - Unit Testing Frameworks (e.g., NUnit, xUnit) 🖐️ used
-  - Logging Frameworks (e.g., Serilog, NLog) 🖐️ used
-  - Application Configuration Libraries 🎓 known
-  - Continuous Integration and Deployment (CI/CD) in .NET
-  - Debugging Tools for Visual Studio 🖐️ used
-  - Code Metrics and Analysis Tools 🖐️ used
-  - Profiling and Performance Tuning in .NET 👂 heard
-  - Design Patterns in C# 🖐️ used
-- Data Access
+  - Windows Services and Linux Daemons
+  - Hosting and Deployment models
+  - IIS and Kestrel web server
+  - Environment variables and configuration 👂 heard
+  - File system I/O operations 🖐️ used
+  - Multithreading with Task Parallel Library (TPL) 🎓 known
+  - Performance monitoring and diagnostics
+- APIs and Framework Features
+  - LINQ 🖐️ used
+  - SignalR for real-time web functionality
+  - High-performance RPC with `gRPC` 🎓 known
+  - Security features (authentication, authorization) 🖐️ used
+  - Cryptography and secure data handling 🖐️ used
+  - Memory and resource management
+  - Globalization and localization 👂 heard
+- Network and Protocols
+  - HTTP/HTTPS support 🖐️ used
+  - WebSockets for real-time communication 👂 heard
+  - TCP/UDP networking 👂 heard
+  - SSL/TLS for secure connections 🎓 known
+  - Efficient network communication with `gRPC` 🎓 known
+  - HTTP/2 and HTTP/3 support
+  - Network security (DDoS, XSS, CSRF prevention) 🖐️ used
+  - Serialization and deserialization (JSON, XML) 🖐️ used
+- Testing and Debugging
+  - Unit testing with frameworks like xUnit, NUnit 🖐️ used
+  - Integration testing
+  - Logging and tracing 🖐️ used
+  - Application monitoring and telemetry
+  - Debugging tools and strategies 🖐️ used
+  - Performance profiling and analysis
+- Data Access and ORM
   - Entity Framework Core 🖐️ used
-  - Dapper (Micro ORM) 👂 heard
-  - ADO.NET 🖐️ used
-  - Transactions in .NET 🖐️ used
-  - Caching Strategies in .NET 🖐️ used
+  - Dapper
+  - ADO.NET for database access 🖐️ used
+  - Data modeling and migration 🖐️ used
+  - Repository and Unit of Work patterns 🖐️ used
+  - CRUD operations 🖐️ used
 - Error Handling and Debugging
-  - Exception Handling in C# 🖐️ used
-  - Logging and Tracing 🖐️ used
-  - Debugging Techniques in Visual Studio 🖐️ used
-  - Unit Testing for Error Cases 🖐️ used
-  - Handling Memory Leaks in .NET 🖐️ used
-- Integrations, Libraries, and Frameworks
-  - ASP.NET Core (MVC and Web API) 🖐️ used
-  - Entity Framework Core 🖐️ used
-  - ASP.NET Core Identity 🖐️ used
-  - AutoMapper 🖐️ used
-  - SignalR 🎓 known
-  - gRPC 🖐️ used
-  - OpenAPI (Swagger) 🖐️ used
-  - Hangfire (Background Jobs)
-  - MassTransit (Message Broker) 👂 heard
-  - Serilog (Logging) 🖐️ used
-  - Polly (Resilience)
-  - FluentValidation 🖐️ used
-  - MediatR (Mediator Pattern) 🖐️ used
-  - Moq (Mocking Library) 🎓 known
-  - xUnit and NUnit (Testing Frameworks) 🖐️ used
-  - Microsoft.Extensions (DependencyInjection, Logging, etc.) 🖐️ used
-  - RestSharp (REST Client) 👂 heard
-  - Refit (Type-Safe HTTP Client)
-  - AngleSharp (HTML Parsing)
-  - Humanizer (Human-friendly text formatting)
-  - IdentityServer (Identity and Access Control) 🖐️ used
+  - Exception handling in .NET 🖐️ used
+  - Custom error classes 🖐️ used
+  - Debugging and diagnostic tools 🖐️ used
+  - Profiling and performance analysis
+  - Memory leak detection
+- Integration and Extensibility
+  - Interoperability with native libraries
+  - P/Invoke for calling `C/C++` libraries
+  - COM interop
+  - .NET for `WebAssembly`
+  - Custom middleware development 🖐️ used
+- Cloud and Microservices
+  - Integration with cloud platforms (Azure, AWS) 👂 heard
+  - Microservices architecture 🖐️ used
+  - Containerization with Docker
+  - Kubernetes for orchestration 👂 heard
+  - Serverless computing 👂 heard
+- C# Development
+  - C# syntax and language fundamentals 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events) 🖐️ used
+  - Reflection and dynamic programming 👂 heard
+  - Data types and collections 🖐️ used
+  - Generics and extension methods 🖐️ used
+  - Attributes and annotations 🖐️ used
+  - Interoperability with other .NET languages 👂 heard
+- `F#` Development
+  - `F#` syntax and language fundamentals
+  - Immutable data structures
+  - Pattern matching and discriminated unions
+  - Functional-first design and development
+  - Type providers and metaprogramming
+  - Asynchronous and parallel programming
+  - Using .NET libraries in `F#`
+  - Building web applications with F# and Giraffe or Saturn
+  - Testing with `FsUnit`
+- VB.NET Development
+  - VB.NET syntax and language fundamentals
+  - Event-driven programming
+  - COM interop and P/Invoke
+  - XML and file handling
+  - Office automation and VSTO
+  - Migration strategies for legacy VB6 applications
+- C++/CLI Development Development
+  - C++ syntax and language fundamentals 🖐️ used
+  - Interoperability between managed (.NET) and unmanaged (native) code
+  - Memory management in mixed environments
+  - `C++/CLI` syntax and usage
+  - Accessing .NET Framework classes in `C++`
+  - Writing performance-critical modules
+  - Interfacing with native libraries and APIs
+  - Developing custom .NET libraries in `C++`
+  - Managing resource disposal and finalization 🖐️ used
+  - Creating and consuming DLLs (Dynamic Link Libraries) 🖐️ used
+  - Working with Windows API 🖐️ used
+  - Migration of legacy `C++` code to .NET
+  - Enhancing existing .NET applications with `C++/CLI`
+- Mobile development
+  - .NET MAUI / Xamarin
+  - Interoperability between managed code and iOS/Android API
+- Game development
+  - Unity 🖐️ used
+- Web development
+  - ASP.NET Core 🖐️ used
+  - Blazor
+  - Razor Syntax 🖐️ used
+  - RESTful API development 🖐️ used

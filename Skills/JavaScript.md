@@ -1,89 +1,121 @@
-## Programming fundamental concepts
+## JavaScript
 
 - Language
-  - Object 🖐️ used
-  - this 🖐️ used
-  - arrow function 🖐️ used
-  - async function 🖐️ used
-  - call 🖐️ used
-  - bind 🖐️ used
-  - apply 🖐️ used
-  - instanceof 🖐️ used
-  - ...spread 🎓 known
-  - ...rest 🎓 known
-  - typeof 🖐️ used
-  - destructuring 🎓 known
-  - generator 🎓 known
-  - iterator 🎓 known
-  - async generator 👂 heard
-  - async iterator 👂 heard
-  - chaining 🎓 known
-  - optional chaining
-  - IIFE 👂 heard
-  - global 🖐️ used
-  - globalThis 👂 heard
-  - window 🖐️ used
-  - getters and setters 🎓 known
-  - __proto__ 🎓 known
-  - prototype 🎓 known
-  - equality operators 🖐️ used
-  - logical operators 🖐️ used
-  - bitwise operators 👂 heard
-  - ternary operator 🖐️ used
-  - void 🖐️ used
-  - yield 🖐️ used
-  - await 🖐️ used
-  - template literal
-  - strict mode 🖐️ used
-  - delete
-  - in 🎓 known
-  - super 👂 heard
-  - Symbol 🎓 known
-  - Reflect
+    - `Object` 🖐️ used
+    - `Function` 🖐️ used
+    - `Boolean` 🖐️ used
+    - `Number` 🖐️ used
+    - `BigInt` 🖐️ used
+    - `String` 🖐️ used
+    - `Symbol` 🖐️ used
+    - `Infinity` 🖐️ used
+    - `NaN` 🖐️ used
+    - `undefined` 🖐️ used
+    - `null` 🖐️ used
+    - `this` 🖐️ used
+    - `instanceof` 🖐️ used
+    - `...spread` 🎓 known
+    - `...rest` 🎓 known
+    - `typeof` 🖐️ used
+    - Destructuring 🎓 known
+    - Generators 🎓 known
+    - Iterators 🎓 known
+    - Async generator 👂 heard
+    - Async iterator 👂 heard
+    - Chaining 🎓 known
+    - Optional chaining 👂 heard
+    - IIFE 👂 heard
+    - Async IIFE
+    - `global` 🖐️ used
+    - `globalThis` 👂 heard
+    - `window` 🖐️ used
+    - Getters and setters 🎓 known
+    - `__proto__` 🎓 known
+    - `prototype` 🎓 known
+    - Equality operators 🖐️ used
+    - Logical operators 🖐️ used
+    - Logical Assignment 🖐️ used
+    - Bitwise operators 👂 heard
+    - Ternary operator 🖐️ used
+    - `void` 🖐️ used
+    - `yield` 🖐️ used
+    - `await` 🖐️ used
+    - Template literal
+    - Strict mode 🖐️ used
+    - Hoisting 👂 heard
+    - `delete` 🎓 known
+    - `in` 🎓 known
+    - `super` 🎓 known
+    - `eval` 🎓 known
+    - `static` 🎓 known
+    - `Number.parseInt` 🖐️ used
+    - `Number.parseFloat` 🎓 known
+    - Property descriptors 👂 heard
+    - Sealing properties 👂 heard
+    - Freezing properties
+    - Computed properties 🎓 known
+    - Instance class fields 🎓 known
+    - Static class fields 🎓 known
+    - Private class fields 🎓 known
+    - Private class methods 🎓 known
 - Statements
-  - if 🖐️ used
-  - while 🖐️ used
-  - do..while 🖐️ used
-  - for 🖐️ used
-  - for..in 🖐️ used
-  - for..of 🖐️ used
-  - for await 🖐️ used
-  - throw 🖐️ used
-  - break 🎓 known
-  - continue 🖐️ used
-  - import 🖐️ used
-  - export 🖐️ used
-  - label
-  - try..catch 🖐️ used
-  - switch 🖐️ used
-  - class 🖐️ used
-  - new Error 🖐️ used
-  - with
+    - `if` 🖐️ used
+    - `while` 🖐️ used
+    - `do..while` 🖐️ used
+    - `for` 🖐️ used
+    - `for..in` 🖐️ used
+    - `for..of` 🖐️ used
+    - `for await`
+    - `throw` 🖐️ used
+    - `break` 🖐️ used
+    - `continue` 🖐️ used
+    - `import` 🖐️ used
+    - `export` 🖐️ used
+    - `label`
+    - `try..catch` 🖐️ used
+    - `switch` 🖐️ used
+    - `class` 🖐️ used
+    - `extends` 🖐️ used
+    - `with`
+    - `new` 🖐️ used
 - Functions
-  - function declaration 🖐️ used
-  - function expression 🎓 known
-  - return 🖐️ used
-  - default parameters 🖐️ used
-  - functional object
+    - Arrow function 🖐️ used
+    - Async function 🖐️ used
+    - Function declaration 🖐️ used
+    - Function expression 🖐️ used
+    - Default parameters 🖐️ used
+    - Functional object
+    - `Function.prototype.call` 🎓 known
+    - `Function.prototype.bind` 🎓 known
+    - `Function.prototype.apply` 🎓 known
+    - `return` 🖐️ used
 - Data structures
-  - Array 🖐️ used
-  - mixin
-  - extend 👂 heard
-  - typed arrays
-  - Map 🖐️ used
-  - Set 🖐️ used
-  - undefined 🖐️ used
-  - null 🖐️ used
-  - Proxy 👂 heard
-  - weak collections
-  - timers 👂 heard
-  - EventEmitter
-  - RegExp 🖐️ used
-  - Date 🖐️ used
-  - BigInt 👂 heard
+    - `Array` 🖐️ used
+    - `Map` 🖐️ used
+    - `Set` 🖐️ used
+    - Weak collections 👂 heard
+    - Typed arrays 👂 heard
+    - Mixins
+    - `Object.assign`
+- Standard classes and namespaces
+    - `Proxy` 👂 heard
+    - `RegExp` 🖐️ used
+    - `Date` 🖐️ used
+    - `Math` 🖐️ used
+    - `Reflect` 👂 heard
+    - `Error` 🖐️ used
+    - `Atomics` 👂 heard
+    - `JSON` 🖐️ used
+    - `WeakRef`
+    - `FinalizationRegistry`
+    - `Intl`
+    - `Promise` 🖐️ used
+    - `console` 🖐️ used
+    - Timers 🖐️ used
 - Infrastructure
-  - V8
-  - Node.js 🖐️ used
-  - npm 🖐️ used
-  - prettier 🖐️ used
-  - MDN 🖐️ used
+    - V8
+    - Node.js 🖐️ used
+    - npm 🖐️ used
+    - prettier 🖐️ used
+    - MDN 🖐️ used
+    - TC39
