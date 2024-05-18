@@ -10,7 +10,7 @@
   - Relational databases 🖐️ used
   - Key-value store 🖐️ used
   - Tuple store 🎓 known
-  - Graph databases
+  - Graph databases 🎓 known
   - Object databases 🖐️ used
   - Column databases 🖐️ used
   - Navigational databases
@@ -32,7 +32,7 @@
   - Subqueries 🖐️ used
   - Stored procedures 🖐️ used
   - SQL functions  🖐️ used
-  - Materialized views
+  - Materialized views 🔬 researched
   - Replications 🎓 known
   - Virtualization 🎓 known
 - SQL

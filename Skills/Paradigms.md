@@ -1,31 +1,31 @@
 ## Multi-paradigm programming
 
 - Theory
-    - Procedural programming 👂 heard
-    - Imperative programming 👂 heard
-    - Structured programming 👂 heard
-    - Non-structured programming 👂 heard
+    - Procedural programming 🎓 known
+    - Imperative programming 🎓 known
+    - Structured programming 🎓 known
+    - Non-structured programming 🎓 known
     - Functional programming 🖐️ used
-    - Prototype-based programming 👂 heard
+    - Prototype-based programming 🎓 known
     - Object-oriented programming 🔬 researched
     - Object-based programming 🖐️ used
-    - Generic programming 👂 heard
-    - Concurrent computing 👂 heard
-    - Asynchronous programming 👂 heard
+    - Generic programming 🔬 researched
+    - Concurrent computing 🖐️ used
+    - Asynchronous programming 🖐️ used
     - Parallel programming 🖐️ used
     - Reactive programming 👂 heard
-    - Functional-reactive (FRP)
+    - Functional-reactive (FRP) 👂 heard
     - Automata-based programming
-    - Domain-specific languages 👂 heard
+    - Domain-specific languages 🎓 known
     - Multi-paradigm programming 👂 heard
     - Metaprogramming 👂 heard
-    - Actor model
-    - Lambda calculus
-    - Black box
-    - Information hiding
-    - Aspect-oriented programming
-    - Anemic domain model
-    - Class composition
+    - Actor model 👂 heard
+    - Lambda calculus 👂 heard
+    - Black box 🎓 known
+    - Information hiding 🎓 known
+    - Aspect-oriented programming 🖐️ used
+    - Anemic domain model 🎓 known
+    - Class composition 🖐️ used
 - OOP basics
     - Constructor 🖐️ used
     - Operator `new` 🖐️ used
@@ -38,25 +38,25 @@
     - Field declarations 🖐️ used
     - Inheritance 🖐️ used
     - Parent class 🖐️ used
-    - Polymorphism 🎓 known
+    - Polymorphism 🖐️ used
     - Abstract class 🖐️ used
     - Interface 🖐️ used
     - Encapsulation 🖐️ used
     - Hidden class 🎓 known
-    - Object form 
+    - Object form 🎓 known
     - Instance 🖐️ used
-    - Introspection
+    - Introspection 🖐️ used
     - Reflection 🎓 known
     - The diamond problem 🎓 known
 - GRASP
-    - Information expert
-    - Creator
-    - Controller 
-    - Indirection
-    - Low coupling 🎓 known
-    - High cohesion 👂 heard
-    - Protected variations 🎓 known
-    - Pure fabrication 👂 heard
+    - Information expert 🖐️ used
+    - Creator 🖐️ used
+    - Controller 🖐️ used
+    - Indirection 🖐️ used
+    - Low coupling 🖐️ used
+    - High cohesion 🖐️ used
+    - Protected variations 🖐️ used
+    - Pure fabrication 🖐️ used
 - SOLID
     - Single-responsibility principle (SRP) 🖐️ used
     - Open–closed principle (OCP) 🖐️ used
@@ -81,7 +81,7 @@
     - Prototype 🎓 known
     - Composite 🎓 known
     - Decorator 🖐️ used
-    - Flyweight
+    - Flyweight 🎓 known
     - Mediator 🖐️ used
     - Memento 👂 heard
     - Template Method

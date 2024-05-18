@@ -6,19 +6,19 @@
   - Non-blocking 🎓 known
   - Async I/O 🖐️ used
   - Thread pool 🎓 known
-  - Pattern Reactor
+  - Pattern Reactor 🎓 known
   - CAS operations
-  - epoll
-  - kqueue
+  - epoll 👂 heard
+  - kqueue 👂 heard
   - Completion ports 👂 heard
   - Event ports 👂 heard
   - libuv
   - Race conditions 🎓 known
   - Dead locks 🎓 known
-  - Live locks
-  - Concurrent programming 👂 heard
+  - Live locks 🎓 known
+  - Concurrent programming 🎓 known
   - Parallel programming 🎓 known
-  - Actor Model
+  - Actor Model 🎓 known
   - Thread 🖐️ used
   - Process 🖐️ used
 - Async contracts
@@ -33,7 +33,7 @@
   - Async Generator 🎓 known
   - Async Iterator 🎓 known
   - Event 🖐️ used
-  - Coroutine 👂 heard
+  - Coroutine 🎓 known
   - Goroutine 🖐️ used
   - Signal
   - Stream 🖐️ used

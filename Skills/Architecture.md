@@ -4,62 +4,62 @@
   - Modularity 🖐️ used
   - Components 🖐️ used
   - Directories 🖐️ used
-  - GRASP 👂 heard
+  - GRASP 🖐️ used
   - SOLID 🖐️ used
   - GoF patterns 🖐️ used
   - CQS 👂 heard
-  - Leaking abstractions
+  - Leaking abstractions 🎓 known
   - Multiparadigm code
   - Contract programming 🖐️ used
   - Platform-agnostic 👂 heard
   - Transport-agnostic
   - Framework-agnostic 🎓 known
   - Code coverage 🖐️ used
-  - Cohesion 👂 heard
-  - Coupling 👂 heard
+  - Cohesion 🎓 known
+  - Coupling 🎓 known
   - Cyclomatic complexity 🎓 known
   - Reliability 🎓 known
   - Quality 🎓 known
   - Availability 🎓 known
   - Flexibility 🎓 known
-  - Law of Demeter (LoD)
+  - Law of Demeter (LoD) 🎓 known
 - Application architecture
   - Isolation between layer 🖐️ used
   - Domain-specific language (DSL) 🖐️ used
   - System vs applied code
   - Multilayer approach 🖐️ used
-  - Hexagonal architecture 👂 heard
+  - Hexagonal architecture 🖐️ used
   - Separation of concerns (SoC) 🖐️ used
   - Metaprogramming
   - Inversion of control (IoC) 🖐️ used
   - Dependency injection (DI) 🖐️ used
   - Clean architecture 🖐️ used
   - Domain-driven design (DDD) 🎓 known
-  - Pub/sub
+  - Pub/sub 🖐️ used
   - Message brocker 🖐️ used
-  - Agent
+  - Agent 👂 heard
   - Service locator 🎓 known
   - Message Queue (MQ) 🖐️ used
   - CQRS 🖐️ used
   - Event sourcing 🎓 known
   - E-R data modeling 🖐️ used
   - Entity-relationship diagram 🖐️ used
-  - IDEF1X
+  - IDEF1X 👂 heard
   - UML 🖐️ used
-  - Work breakdown structure
-  - Budget estimation
-  - Distributed systems 👂 heard
+  - Work breakdown structure 👂 heard
+  - Budget estimation 👂 heard
+  - Distributed systems 🎓 known
   - High-intensive computing 🖐️ used
   - Load balancing 🎓 known
   - Gateways 🎓 known
   - On-premises 👂 heard
-  - IaaS 👂 heard
-  - PaaS 👂 heard
-  - SaaS 👂 heard
-  - FaaS clouds
-  - Serverless 👂 heard
-  - Vendor lock-in
-  - Bus factor
+  - IaaS 🎓 known
+  - PaaS 🎓 known
+  - SaaS 🎓 known
+  - FaaS clouds 👂 heard
+  - Serverless 🎓 known
+  - Vendor lock-in  🎓 known
+  - Bus factor  🎓 known
 - Solution architecture
   - A software requirements specification (SRS) 🎓 known
   - Solution visions 🎓 known
@@ -68,14 +68,14 @@
   - Process modelling
   - Data modelling 🎓 known
   - Solution components
-  - Risk assessment 👂 heard
+  - Risk assessment  🎓 known
   - Non Functional Requirements (NFR) 🎓 known
   - Clouds 🎓 known
   - BPMN 🎓 known
-  - Low-code 👂 heard
-  - No-code 👂 heard
-  - Metric
-  - Metric abuse
+  - Low-code  🎓 known
+  - No-code  🎓 known
+  - Metric  🎓 known
+  - Metric abuse 👂 heard
   - ACID 🎓 known
   - CAP theorem 🎓 known
   - Single source of truth (SSOT) 🎓 known

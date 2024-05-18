@@ -16,7 +16,7 @@
     - Module 🖐️ used
     - Library 🖐️ used
     - Package 🖐️ used
-    - Component
+    - Component 🖐️ used
     - Framework 🖐️ used
     - Platform 🖐️ used
     - Source code 🎓 known
@@ -25,7 +25,7 @@
     - Microcode
     - Software engineering 🎓 known
     - Decomposition 🎓 known
-    - Control flow
+    - Control flow 🎓 known
     - Data flow 🎓 known
     - Code reuse 🎓 known
     - Defensive programming
@@ -39,16 +39,16 @@
     - Scalar 🖐️ used
     - Literal 🖐️ used
     - Expression 🖐️ used
-    - Heap 🖐️ used
+    - Heap 🔬 researched
     - Function 🖐️ used
     - Procedure 🎓 known
     - Method 🖐️ used
     - Class 🖐️ used
-    - Prototype 🎓 known
+    - Prototype 🖐️ used
     - Event 🖐️ used
     - Type 🖐️ used
-    - Flag 🎓 known
-    - Lexical scope
+    - Flag 🖐️ used
+    - Lexical scope 🖐️ used
     - Code block 🖐️ used
     - Conditions 🖐️ used
     - Loops 🖐️ used
@@ -56,26 +56,26 @@
     - Regular expression 🖐️ used
     - Interface 🖐️ used
     - Namespaces 🖐️ used
-    - Call stack 🎓 known
+    - Call stack 🖐️ used
     - Naming conventions 🖐️ used
     - Coding conventions 🖐️ used
     - Camel case 🖐️ used
     - Snake case 🖐️ used
-    - Kebab case 🎓 known
+    - Kebab case 🖐️ used
     - Trailing commas 🖐️ used
     - Return early 🖐️ used
     - Fail-fast 🖐️ used
 - Types
     - Primitive types 🖐️ used
     - Reference types 🖐️ used
-    - Type systems 🎓 known
+    - Type systems 🖐️ used
     - Strong typing 🖐️ used
     - Weak typing 🖐️ used
     - Duck typing 🖐️ used
     - Static typing 🖐️ used
-    - Dynamic typing 🎓 known
-    - Nominal typing
-    - Structural typing
+    - Dynamic typing 🖐️ used
+    - Nominal typing 🎓 known
+    - Structural typing 🎓 known
     - Explicit typing 🖐️ used
     - Type inference 🖐️ used
     - Covariance 🎓 known
@@ -94,12 +94,12 @@
     - Recursion 🖐️ used
     - Tail call optimisation
     - Callback 🖐️ used
-    - Listener
+    - Listener 🖐️ used
     - Composition 🖐️ used
     - Pipe 🖐️ used
     - Memoize 🖐️ used
-    - Wrapper 🎓 known
-    - Functor
+    - Wrapper 🖐️ used
+    - Functor 👂 heard
     - Monad 👂 heard
     - Monoid 👂 heard
     - Generator 🖐️ used
@@ -115,8 +115,8 @@
     - Set 🖐️ used
     - Hash table 🚀 constructed
     - Linked list 🚀 constructed
-    - Doubly list
-    - Unrolled list
+    - Doubly list 🎓 known
+    - Unrolled list 🎓 known
     - Circular list 🎓 known
     - Queue 🖐️ used
     - Stack 🖐️ used
@@ -129,7 +129,7 @@
     - Serialization 🖐️ used
     - String parsing 🖐️ used
     - JSON 🖐️ used
-    - JSON5
+    - JSON5 🎓 known
     - YAML 🖐️ used
 - Networking
     - DNS 👂 heard
@@ -139,7 +139,7 @@
     - IPv6 🖐️ used
     - NAT 👂 heard
     - URL 🖐️ used
-    - URN
+    - URN 👂 heard
     - URI 🖐️ used
 - Process and tools
     - Compiler 🖐️ used
@@ -173,34 +173,34 @@
 - Antipatterns
     - Magic numbers 🎓 known
     - Hard code 🎓 known
-    - Soft code
-    - Cryptic code
-    - Improbability factor
+    - Soft code 🎓 known
+    - Cryptic code 🎓 known
+    - Improbability factor 🎓 known
     - Accidental complexity 🎓 known
     - Action at a distance 🎓 known
     - Spaghetti 🎓 known
-    - Silver bullet
-    - Not invented here
+    - Silver bullet 🎓 known
+    - Not invented here 🎓 known
     - Dead code 🎓 known
     - Unreachable code 🎓 known
     - Duplicate code 🎓 known
-    - Premature optimization
-    - Micro-optimization
+    - Premature optimization 🎓 known
+    - Micro-optimization 🎓 known
     - Nested loops 🎓 known
     - Long method/function/procedure 🎓 known
     - Long inheritance 🎓 known
     - Large class/file 🎓 known
     - Too many parameters 🎓 known
-    - Pass-through parameters
-    - Accumulate and fire
+    - Pass-through parameters 🎓 known
+    - Accumulate and fire 🎓 known
     - Use switch/case 🎓 known
-    - Temporary field
+    - Temporary field 🎓 known
     - Handle object as instances and hashes at the same time 🎓 known
     - Use fields instead of arguments 🎓 known
-    - Data clump
-    - Feature envy
-    - Monkey patch
-    - Yo-yo problem
+    - Data clump 🎓 known
+    - Feature envy 🎓 known
+    - Monkey patch 🎓 known
+    - Yo-yo problem 🎓 known
 - Runtimes and virtual machines
     - Bytecode 🎓 known
     - V8
@@ -208,7 +208,7 @@
     - CLR 🖐️ used
     - Mono
 - Operating systems
-    - Interrupts 🎓 known
+    - Interrupts 🖐️ used
     - Drivers 🎓 known
     - Kernel 🎓 known
     - Ring
@@ -231,8 +231,8 @@
     - Base64 🖐️ used
     - ECMA 🖐️ used
     - ICANN
-    - ISO 🎓 known
-    - MIME 🎓 known
+    - ISO 🖐️ used
+    - MIME 🖐️ used
     - OWASP
     - UTF-8 🖐️ used
     - W3C

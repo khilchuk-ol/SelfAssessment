@@ -8,27 +8,27 @@
   - Garbage Collection in Golang 🎓 known
   - Go Modules and Dependency Management 🖐️ used
   - Static Typing vs Dynamic Typing 🖐️ used
-  - Goroutine Pools 👂 heard
+  - Goroutine Pools 🔬 researched
   - Golang Release Schedule 👂 heard
-  - I/O-bound, CPU-bound, and Memory-bound tasks in Golang 👂 heard
+  - I/O-bound, CPU-bound, and Memory-bound tasks in Golang 🖐️ used
 - Modularity and Dependencies
   - Package Management in Golang 🖐️ used
   - Import Paths and Naming Conventions 🖐️ used
   - Golang Package System 🎓 known
-  - Dependency Injection in Golang 🎓 known
+  - Dependency Injection in Golang 🖐️ used
   - Interface-based Design 🖐️ used
   - Golang Module System 🖐️ used
   - Coupling and Cohesion in Golang 👂 heard
 - Internal API
-  - Channels and Select Statements 🎓 known
+  - Channels and Select Statements 🖐️ used
   - Golang Cryptography Packages 🖐️ used
   - File System Operations in Golang 🖐️ used
-  - Golang Worker Pools 🎓 known
+  - Golang Worker Pools 🔬 researched
   - Performance Profiling in Golang 🎓 known
   - Golang HTTP Client 🖐️ used
-  - Golang Context Package 🖐️ used
+  - Golang Context Package 🔬 researched
   - Golang Channels for Communication 🖐️ used
-  - Golang Error Handling 🖐️ used
+  - Golang Error Handling 🔬 researched
   - Golang UUID Generation 🖐️ used
   - Golang Testing Best Practices 🖐️ used
   - Golang Internationalization 👂 heard
@@ -38,7 +38,7 @@
   - Multilayer Architecture in Golang 🖐️ used
   - Inversion of Control in Golang 🖐️ used
   - Dependency Injection in Golang 🖐️ used
-  - Message Queue Usage in Golang
+  - Message Queue Usage in Golang 🖐️ used
   - CQRS and Event Sourcing in Golang 🎓 known
   - Microservices Architecture in Golang 🖐️ used
   - Load Balancing in Golang 👂 heard
@@ -56,12 +56,12 @@
   - Database Access in Golang 🖐️ used
   - Golang ORM Libraries (e.g., GORM) 🖐️ used
   - Query Builders in Golang 🖐️ used
-  - Transactions and Concurrency Control in Golang 🎓 known
+  - Transactions and Concurrency Control in Golang 🖐️ used
 - Error Handling
-  - Golang Panic and Recover 🖐️ used
+  - Golang Panic and Recover 🔬 researched
   - Debugging Techniques in Golang 🖐️ used
   - Memory Profiling in Golang 🎓 known
-  - Resource Leak Detection in Golang
+  - Resource Leak Detection in Golang 👂 heard
 - Integrations, Libraries, and Frameworks
   - Web Framework Gin 🖐️ used
   - Microservices Framework Go kit 🎓 known
@@ -69,11 +69,11 @@
   - testing, testify 🖐️ used
   - Logging Library logrus 🖐️ used
   - Networking Libraries (e.g., net/http) 🖐️ used
-  - Middleware Libraries (e.g., negroni) 👂 heard
+  - Middleware Libraries (e.g., negroni) 🖐️ used
   - Database Drivers (e.g., pq, go-sqlite3) 🖐️ used
   - JSON Libraries (e.g., encoding/json) 🖐️ used
   - Authentication Libraries (e.g., jwt-go) 🖐️ used
-  - Dependency Injection Libraries (e.g., wire) 👂 heard
+  - Dependency Injection Libraries (e.g., wire) 🖐️ used
   - WebSockets Libraries (e.g., gorilla/websocket) 🎓 known
   - gRPC Libraries (e.g., grpc-go) 🖐️ used
   - Configuration Libraries (e.g., viper) 🖐️ used
